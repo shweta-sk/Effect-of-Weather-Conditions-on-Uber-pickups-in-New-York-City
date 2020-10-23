@@ -1,0 +1,2 @@
+# Effect-of-Weather-Conditions-on-Uber-pickups-in-New-York-City
+Travel is a part and parcel of the life of every human being. One may travel places for work, school, meetings or just to visit a place. There are various means of transportation to aid this travel like personal cars, trains, buses, flights or cab services. One such private cab service is Uber. In this project, the effects of weather on the number of Uber pickups in 5 boroughs of New York City throughout the period of January 2015 to May 2015 have been explored.
